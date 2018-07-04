@@ -46,7 +46,7 @@ Tizen backend is available from [Xamarin.Forms 3.0.0 release](https://developer.
 
 If you want to know in detail the **status**, navigate to the [Status section](Status.md).
 
-You could also see the section [Pending & Known Issues](Issues-Pending.md).
+You could also see the section [Known Issues](Known-Issues.md).
 
 ## Gallery
 
