@@ -68,3 +68,22 @@ You've got nothing to do, just enjoy it. Follow this [tutorial](https://blog.xam
 
 Are you interesting?. You can **[contribute](How-Contribute.md)**!.
 
+# Tizen Exclusive Extensions
+
+## Tizen.CicularUI
+
+Are you plannig to create a Watch App for Samsung Wearable devices (that are supporing Tizen 4.0 or higher version)? 
+If yes, then [Tizen.Circular UI](https://github.com/Samsung/Tizen.CircularUI) avail various custom widgets for Tizen Watch app development.
+
+<p align="center">
+<img src="https://github.com/Samsung/Tizen.CircularUI/raw/master/doc/design/data/widgets.png" />
+</p>
+
+## Tizen.TV.UIControls
+
+Are you plannig to create a TV App for Samsung Smart TV (that is supporing Tizen 4.0 or higher version)? 
+If yes, then [Tizen.TV.UIControls](https://github.com/Samsung/Tizen.TV.UIControls) avail useful APIs for Tizen TV app development.
+
+<p align="center">
+<img src=https://user-images.githubusercontent.com/1029155/42200625-34b8332a-7ecf-11e8-9494-5f97cf4c3e60.gif width=250> <img src=https://user-images.githubusercontent.com/1029155/42200629-3742fb16-7ecf-11e8-82ea-dc8dd5fd9619.gif width=250> <img src=https://user-images.githubusercontent.com/1029155/42200631-3b63edcc-7ecf-11e8-8435-31e12c5ed79e.gif width=250> <img src=https://user-images.githubusercontent.com/1029155/42200633-3d5b9396-7ecf-11e8-91c2-72f3d1003360.gif width=250> <img src=https://user-images.githubusercontent.com/1029155/42200637-4685077c-7ecf-11e8-9984-4c68048da265.gif width=250> <img src=https://user-images.githubusercontent.com/1029155/42200638-489afd3c-7ecf-11e8-981d-8f27169ee8c0.gif width=250>
+</p>
