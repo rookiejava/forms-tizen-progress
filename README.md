@@ -29,7 +29,7 @@ Xamarin.Forms Tizen Backend |
 
 Xamarin.Forms Tizen Backend Samples | 
 ------ | 
-[Xamarin Forms Samples (include Tizen Backend)](https://github.com/xamarin/xamarin-forms-samples/pull/245) |
+[Xamarin Forms Samples (include Tizen Backend)](https://github.com/Samsung/xamarin-forms-samples) |
 [Tizen .NET Samples](https://github.com/Samsung/Tizen-CSharp-Samples) |
 [Tizen .NET TV Samples](https://developer.samsung.com/tv/tizen-net-tv/samples) |
 
