@@ -5,7 +5,7 @@ If you need to tag folks on an issue or PR, you will generally want to tag the [
 
  Area (Project) | Owners| Notes
 --|--|--
-[.NET MAUI](https://github.com/dotnet/maui) | @rookiejava, @sngnlee | 
+[.NET MAUI](https://github.com/dotnet/maui) | @rookiejava, @sngnlee, @JoonghyunCho | 
 [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | @rookiejava, @sngnlee | 
 [Xamarin.Essentials](https://github.com/xamarin/Essentials) | @rookiejava, @sung-su  | 
 [Tizen .NET](https://github.com/Samsung/Tizen.NET) | @rookiejava, @WonyoungChoi, @JoonghyunCho, @sung-su  |  
